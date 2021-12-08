@@ -8,6 +8,6 @@ metadata:
 spec:
   source:
     git:
-      url: https://github.com/sample-accelerators/tanzu-java-web-app-mduser031
+      url: https://github.com/wayouttherdev/tanzu-java-web-app-mduser031
       ref:
         branch: main
